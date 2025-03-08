@@ -1,0 +1,19 @@
+[[92mtech-detect[0m:[1;92mnext.js[0m] [[94mhttp[0m] [[34minfo[0m] https://indrive.com
+[[92mtech-detect[0m:[1;92mgoogle-tag-manager[0m] [[94mhttp[0m] [[34minfo[0m] https://indrive.com
+[[92mtech-detect[0m:[1;92mistio-envoy[0m] [[94mhttp[0m] [[34minfo[0m] https://indrive.com
+[[92mrdap-whois[0m:[1;92mregistrationDate[0m] [[94mhttp[0m] [[34minfo[0m] https://rdap.verisign.com/com/v1/domain/indrive.com [[96m"1998-04-08T04:00:00Z"[0m]
+[[92mrdap-whois[0m:[1;92mlastChangeDate[0m] [[94mhttp[0m] [[34minfo[0m] https://rdap.verisign.com/com/v1/domain/indrive.com [[96m"2023-12-04T14:54:15Z"[0m]
+[[92mrdap-whois[0m:[1;92mexpirationDate[0m] [[94mhttp[0m] [[34minfo[0m] https://rdap.verisign.com/com/v1/domain/indrive.com [[96m"2025-04-07T04:00:00Z"[0m]
+[[92mrdap-whois[0m:[1;92mnameServers[0m] [[94mhttp[0m] [[34minfo[0m] https://rdap.verisign.com/com/v1/domain/indrive.com [[96m"NS-1301.AWSDNS-34.ORG"[0m,[96m"NS-1831.AWSDNS-36.CO.UK"[0m,[96m"NS-389.AWSDNS-48.COM"[0m,[96m"NS-694.AWSDNS-22.NET"[0m]
+[[92mrdap-whois[0m:[1;92msecureDNS[0m] [[94mhttp[0m] [[34minfo[0m] https://rdap.verisign.com/com/v1/domain/indrive.com [[96m"false"[0m]
+[[92mrdap-whois[0m:[1;92mstatus[0m] [[94mhttp[0m] [[34minfo[0m] https://rdap.verisign.com/com/v1/domain/indrive.com [[96m"client transfer prohibited"[0m]
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] indrive.com [[96m"1 aspmx.l.google.com."[0m,[96m"10 alt3.aspmx.l.google.com."[0m,[96m"10 alt4.aspmx.l.google.com."[0m,[96m"5 alt1.aspmx.l.google.com."[0m,[96m"5 alt2.aspmx.l.google.com."[0m]
+[[92mmx-service-detector[0m:[1;92mGoogle Apps[0m] [[94mdns[0m] [[34minfo[0m] indrive.com
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] indrive.com [[96m"ns-694.awsdns-22.net."[0m,[96m"ns-389.awsdns-48.com."[0m,[96m"ns-1831.awsdns-36.co.uk."[0m,[96m"ns-1301.awsdns-34.org."[0m]
+[[92mspf-record-detect[0m] [[94mdns[0m] [[34minfo[0m] indrive.com [[96m"v=spf1 include:_spf.google.com include:spf.mandrillapp.com include:_spf.salesforce.com include:amazonses.com +a +mx ~all""[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] indrive.com [[96m""google-site-verification=O0FZN6iYKsmF_TUd93SLa-Gyyyi0Cisa7pdbMgBrLiA""[0m,[96m""mandrill_verify.tGQQTxEEpLKIe9FhthHusQ""[0m,[96m""miro-verification=6fb5d94547e2faf5699dd9b65349835d7a80fec8""[0m,[96m""v=spf1 include:_spf.google.com include:spf.mandrillapp.com include:_spf.salesforce.com include:amazonses.com +a +mx ~all""[0m,[96m""wrike-verification=MzUwODIzNTo5YzY4OGQ3OTNjNDcyYzdjNzhjODY2YjE4NzBlMTViZTE5ZDI1YzdjNjNiNWYwNDE4N2I0NTEzMmI2ZmRiYWQ0""[0m,[96m""MS=ms57223185""[0m,[96m""apple-domain-verification=BWTtNCL3NMmnWCp3""[0m,[96m""google-site-verification=Dpiu_uvNLWzSXz0v2lHl_cYjqeNZK4Yf76GfyE5oDVE""[0m]
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.indrive.com [[96m""v=DMARC1; p=reject; rua=mailto:indrivepostmaster@gmail.com; sp=reject; pct=100; adkim=s; aspf=s;""[0m]
+[[92mcaa-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] indrive.com
+[[92mssl-issuer[0m] [[94mssl[0m] [[34minfo[0m] indrive.com:443 [[96m"Amazon"[0m]
+[[92mssl-dns-names[0m] [[94mssl[0m] [[34minfo[0m] indrive.com:443 [[96m"*.indrive.com"[0m,[96m"indrive.com"[0m]
+[[92mwildcard-tls[0m] [[94mssl[0m] [[34minfo[0m] indrive.com:443 [[96m"SAN: [*.indrive.com indrive.com]"[0m,[96m"CN: *.indrive.com"[0m]

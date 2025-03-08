@@ -1,0 +1,50 @@
+[ * ] Fingerprints found; checking integrity with an upstream
+[ * ] Loaded 38 targets
+[ * ] Loaded 76 fingerprints
+[ No ] HTTPS by default (--https)
+[ 10 ] Concurrent requests (--concurrency)
+[ No ] Check target only if SSL is valid (--verify_ssl)
+[ 10 ] HTTP request timeout (in seconds) (--timeout)
+[ No ] Show only potentially vulnerable subdomains (--hide_fails)
+[ [31mNOT VULNERABLE[0m ]  -  https://indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://share.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://www.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://analytics.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://services.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://rabota.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://empleo.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://s.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://job.indrive.com
+[ [31mHTTP ERROR[0m ]  -  http://bus.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://bus.mx.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://injob.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://internal.tpl.delivery.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://www.book.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://delivery.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://rd.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://www.delivery.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://intercity.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://cr.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://tpl.delivery.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://www.intercity.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://fr.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://internal.sandbox.delivery.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://services.indrive.com.co
+[ [31mNOT VULNERABLE[0m ]  -  https://ic.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://ref.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://book.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://cargo.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://landing.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://money.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://media.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://us.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://promotion.indrive.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  http://promo.indrive.com  [ Tilda ]
+[ [34mDISCUSSION[0m ]  -  [Issue #155](https://github.com/EdOverflow/can-i-take-over-xyz/issues/155) [PR #20](https://github.com/EdOverflow/can-i-take-over-xyz/pull/20)
+[ [34mDOCUMENTATION[0m ]  -  
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  https://careers.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://www.id.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://id.indrive.com
+[ [31mNOT VULNERABLE[0m ]  -  https://movie.indrive.com

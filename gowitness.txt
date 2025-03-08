@@ -1,0 +1,97 @@
+2025/03/07 18:12:38 WARN no writers have been configured. to persist probe results, add writers using --write-* flags
+2025/03/07 18:12:42 INFO result 🤖 target=http://www.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:12:42 INFO result 🤖 target=http://indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:12:44 INFO result 🤖 target=http://www.indrive.com:80 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:12:45 INFO result 🤖 target=http://indrive.com:80 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:12:46 INFO result 🤖 target=http://s.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:12:46 INFO result 🤖 target=http://s.indrive.com:80 status-code=403 title="" have-screenshot=true
+2025/03/07 18:12:46 INFO result 🤖 target=https://www.indrive.com:443 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:12:46 INFO result 🤖 target=https://indrive.com:443 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:12:49 INFO result 🤖 target=https://s.indrive.com:443 status-code=403 title="" have-screenshot=true
+2025/03/07 18:12:49 INFO result 🤖 target=http://job.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:12:50 INFO result 🤖 target=http://share.indrive.com:443 status-code=400 title="400 The plain HTTP request was sent to HTTPS port" have-screenshot=true
+2025/03/07 18:12:51 INFO result 🤖 target=http://share.indrive.com:80 status-code=403 title="Attention Required! | Cloudflare" have-screenshot=true
+2025/03/07 18:12:52 INFO result 🤖 target=http://job.indrive.com:80 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:12:52 INFO result 🤖 target=https://share.indrive.com:443 status-code=403 title="Access Denied" have-screenshot=true
+2025/03/07 18:12:54 INFO result 🤖 target=https://job.indrive.com:443 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:12:55 INFO result 🤖 target=http://www.intercity.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:12:56 INFO result 🤖 target=http://analytics.indrive.com:80 status-code=200 title="" have-screenshot=true
+2025/03/07 18:12:58 INFO result 🤖 target=https://analytics.indrive.com:443 status-code=200 title="" have-screenshot=true
+2025/03/07 18:12:58 INFO result 🤖 target=http://rabota.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:13:00 INFO result 🤖 target=http://www.intercity.indrive.com:80 status-code=200 title="Comfortable Rides Between Cities At Your Price - inDrive City to city" have-screenshot=true
+2025/03/07 18:13:01 INFO result 🤖 target=https://www.intercity.indrive.com:443 status-code=200 title="Comfortable Rides Between Cities At Your Price - inDrive City to city" have-screenshot=true
+2025/03/07 18:13:02 INFO result 🤖 target=http://rabota.indrive.com:80 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:13:02 INFO result 🤖 target=http://empleo.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:13:04 INFO result 🤖 target=https://rabota.indrive.com:443 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:13:05 INFO result 🤖 target=http://empleo.indrive.com:80 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:13:05 INFO result 🤖 target=http://delivery.indrive.com:80 status-code=404 title="Domain has been assigned" have-screenshot=true
+2025/03/07 18:13:07 INFO result 🤖 target=https://delivery.indrive.com:443 status-code=404 title="Domain has been assigned." have-screenshot=true
+2025/03/07 18:13:08 INFO result 🤖 target=https://empleo.indrive.com:443 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:13:08 INFO result 🤖 target=http://www.book.indrive.com:80 status-code=404 title="Domain has been assigned." have-screenshot=true
+2025/03/07 18:13:11 INFO result 🤖 target=https://www.book.indrive.com:443 status-code=404 title="Domain has been assigned." have-screenshot=true
+2025/03/07 18:13:16 INFO result 🤖 target=http://services.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:13:21 INFO result 🤖 target=http://cr.indrive.com:80 status-code=200 title="Feel the freedom" have-screenshot=true
+2025/03/07 18:13:26 INFO result 🤖 target=http://injob.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:13:40 INFO result 🤖 target=https://cr.indrive.com:443 status-code=200 title="Feel the freedom" have-screenshot=true
+2025/03/07 18:13:50 INFO result 🤖 target=http://intercity.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:13:51 INFO result 🤖 target=http://services.indrive.com:80 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:13:53 INFO result 🤖 target=http://injob.indrive.com:80 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:13:53 INFO result 🤖 target=https://services.indrive.com:443 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:13:55 INFO result 🤖 target=https://injob.indrive.com:443 status-code=200 title="Earn With inDrive or Offer Your Fare and Get Ride | inDrive" have-screenshot=true
+2025/03/07 18:13:56 INFO result 🤖 target=http://fr.indrive.com:80 status-code=404 title="404 - Page not found" have-screenshot=true
+2025/03/07 18:13:58 INFO result 🤖 target=https://fr.indrive.com:443 status-code=404 title="404 - Page not found" have-screenshot=true
+2025/03/07 18:14:00 INFO result 🤖 target=http://intercity.indrive.com:80 status-code=200 title="Comfortable Rides Between Cities At Your Price - inDrive City to city" have-screenshot=true
+2025/03/07 18:14:04 INFO result 🤖 target=http://bus.mx.indrive.com:80 status-code=200 title=Tickets have-screenshot=true
+2025/03/07 18:14:04 INFO result 🤖 target=http://internal.tpl.delivery.indrive.com:80 status-code=404 title="" have-screenshot=true
+2025/03/07 18:14:05 INFO result 🤖 target=http://internal.tpl.delivery.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:14:06 INFO result 🤖 target=https://internal.tpl.delivery.indrive.com:443 status-code=404 title="" have-screenshot=true
+2025/03/07 18:14:06 INFO result 🤖 target=https://intercity.indrive.com:443 status-code=200 title="Comfortable Rides Between Cities At Your Price - inDrive City to city" have-screenshot=true
+2025/03/07 18:14:07 INFO result 🤖 target=https://bus.mx.indrive.com:443 status-code=200 title=Tickets have-screenshot=true
+2025/03/07 18:14:08 INFO result 🤖 target=http://rd.indrive.com:80 status-code=404 title="Domain has been assigned." have-screenshot=true
+2025/03/07 18:14:10 INFO result 🤖 target=https://rd.indrive.com:443 status-code=404 title="Domain has been assigned" have-screenshot=true
+2025/03/07 18:14:10 INFO result 🤖 target=http://www.delivery.indrive.com:80 status-code=404 title="Domain has been assigned." have-screenshot=true
+2025/03/07 18:14:12 INFO result 🤖 target=https://www.delivery.indrive.com:443 status-code=404 title="Domain has been assigned." have-screenshot=true
+2025/03/07 18:14:12 INFO result 🤖 target=http://ic.indrive.com:80 status-code=404 title="404 - Page not found" have-screenshot=true
+2025/03/07 18:14:13 INFO result 🤖 target=https://ic.indrive.com:443 status-code=404 title="404 - Page not found" have-screenshot=true
+2025/03/07 18:14:13 INFO result 🤖 target=http://ref.indrive.com:80 status-code=404 title="404 - Page not found" have-screenshot=true
+2025/03/07 18:14:15 INFO result 🤖 target=https://ref.indrive.com:443 status-code=404 title="404 - Page not found" have-screenshot=true
+2025/03/07 18:14:15 INFO result 🤖 target=http://tpl.delivery.indrive.com:80 status-code=404 title="" have-screenshot=true
+2025/03/07 18:14:15 INFO result 🤖 target=http://tpl.delivery.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:14:16 INFO result 🤖 target=https://tpl.delivery.indrive.com:443 status-code=404 title="" have-screenshot=true
+2025/03/07 18:14:16 INFO result 🤖 target=http://media.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:14:19 INFO result 🤖 target=http://media.indrive.com:80 status-code=200 title="inDrive Brand Portal" have-screenshot=true
+2025/03/07 18:14:20 INFO result 🤖 target=http://landing.indrive.com:80 status-code=404 title="404 - Page not found" have-screenshot=true
+2025/03/07 18:14:20 INFO result 🤖 target=http://internal.sandbox.delivery.indrive.com:80 status-code=404 title="" have-screenshot=true
+2025/03/07 18:14:20 INFO result 🤖 target=https://landing.indrive.com:443 status-code=404 title="404 - Page not found" have-screenshot=true
+2025/03/07 18:14:21 INFO result 🤖 target=http://internal.sandbox.delivery.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:14:22 INFO result 🤖 target=https://media.indrive.com:443 status-code=200 title="inDrive Brand Portal" have-screenshot=true
+2025/03/07 18:14:23 INFO result 🤖 target=https://internal.sandbox.delivery.indrive.com:443 status-code=404 title="" have-screenshot=true
+2025/03/07 18:14:24 INFO result 🤖 target=http://cargo.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:14:26 INFO result 🤖 target=http://book.indrive.com:80 status-code=404 title="Domain has been assigned." have-screenshot=true
+2025/03/07 18:14:27 INFO result 🤖 target=https://book.indrive.com:443 status-code=404 title="Domain has been assigned" have-screenshot=true
+2025/03/07 18:14:33 INFO result 🤖 target=http://money.indrive.com:443 status-code=400 title="" have-screenshot=true
+2025/03/07 18:14:34 INFO result 🤖 target=http://cargo.indrive.com:80 status-code=200 title="Online Cargo Transportation Service - cargo.inDrive" have-screenshot=true
+2025/03/07 18:14:35 INFO result 🤖 target=http://promotion.indrive.com:80 status-code=200 title="Ride at a fair pricewith the driver you trust" have-screenshot=true
+2025/03/07 18:14:35 INFO result 🤖 target=https://cargo.indrive.com:443 status-code=200 title="Online Cargo Transportation Service - cargo.inDrive" have-screenshot=true
+2025/03/07 18:14:38 INFO result 🤖 target=https://promotion.indrive.com:443 status-code=200 title="Ride at a fair pricewith the driver you trust" have-screenshot=true
+2025/03/07 18:14:39 INFO result 🤖 target=http://money.indrive.com:80 status-code=200 title="inDrive Money" have-screenshot=true
+2025/03/07 18:14:39 INFO result 🤖 target=http://services.indrive.com.co:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:14:44 INFO result 🤖 target=http://us.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:14:45 INFO result 🤖 target=http://services.indrive.com.co:80 status-code=200 title="Gane con inDrive u ofrezca su tarifa y obtenga un viaje | en movimiento" have-screenshot=true
+2025/03/07 18:14:46 INFO result 🤖 target=https://services.indrive.com.co:443 status-code=200 title="Gane con inDrive u ofrezca su tarifa y obtenga un viaje | en movimiento" have-screenshot=true
+2025/03/07 18:14:47 INFO result 🤖 target=https://money.indrive.com:443 status-code=200 title="inDrive Money" have-screenshot=true
+2025/03/07 18:14:47 INFO result 🤖 target=http://us.indrive.com:80 status-code=404 title="Not Found" have-screenshot=true
+2025/03/07 18:14:49 INFO result 🤖 target=https://us.indrive.com:443 status-code=404 title="Not Found" have-screenshot=true
+2025/03/07 18:14:49 INFO result 🤖 target=http://careers.indrive.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/07 18:14:52 INFO result 🤖 target=http://careers.indrive.com:80 status-code=200 title="Explore Career Opportunities at Indrive" have-screenshot=true
+2025/03/07 18:1🤖4:52 INFO result 🤖 target=http://www.id.indrive.com:443 status-code=400 title="400 The plain HTTP request was sent to HTTPS port" have-screenshot=true
+2025/03/07 18:14:52 INFO result 🤖 target=http://www.id.indrive.com:80 status-code=404 title="Domain has been assigned." have-screenshot=true
+2025/03/07 18:14:53 INFO result 🤖 target=https://careers.indrive.com:443 status-code=200 title="Explore Career Opportunities at Indrive" have-screenshot=true
+2025/03/07 18:14:54 INFO result 🤖 target=https://www.id.indrive.com:443 status-code=404 title="Domain has been assigned." have-screenshot=true
+2025/03/07 18:14:55 INFO result 🤖 target=http://id.indrive.com:80 status-code=404 title="Not Found" have-screenshot=true
+2025/03/07 18:14:56 INFO result 🤖 target=http://id.indrive.com:443 status-code=400 title="400 The plain HTTP request was sent to HTTPS port" have-screenshot=true
+2025/03/07 18:14:57 INFO result 🤖 target=https://id.indrive.com:443 status-code=404 title="Not Found" have-screenshot=true
+2025/03/07 18:14:58 INFO result 🤖 target=http://movie.indrive.com:443 status-code=400 title="400 The plain HTTP request was sent to HTTPS port" have-screenshot=true
+2025/03/07 18:14:59 INFO result 🤖 target=http://promo.indrive.com:80 status-code=403 title="Please renew your subscription" have-screenshot=true
+2025/03/07 18:15:02 INFO result 🤖 target=http://movie.indrive.com:80 status-code=200 title="Inner Drive - A Film About Challenging Injustice and Uniting People | inDrive" have-screenshot=trutarget=https://promo.indrive.com:443 status-code=403 title="Please renew your subscription" have-screenshot=true
+https://movie.indrive.com:443 status-code=200 title="Inner Drive - A Film About Challenging Injustice and Uniting People | inDrive" have-screenshot=true
